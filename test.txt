@@ -1,0 +1,3 @@
+this is text file created with cmd
+
+Now i have edited this file here
